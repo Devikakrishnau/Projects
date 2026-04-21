@@ -1,5 +1,5 @@
-# Projects
-🧠 Agentic AI Tumor Detection System
+# Agentic AI Tumor Detection System
+
 
 An AI-powered system for brain tumor detection, risk assessment, and automated radiology report generation using MRI images.
 
