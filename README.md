@@ -123,4 +123,3 @@ Medical Imaging Research Papers
 👩‍💻 Author
 
 Devika Krishna
-M.Tech AI & Data Science
