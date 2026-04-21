@@ -75,7 +75,7 @@ Accuracy: ~99%
 Loss: Reduced from 99.87 → 5.91
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/agentic-tumor-ai.git
+git clone https://github.com/Devikakrishnau/Projects.git
 cd agentic-tumor-ai
 2. Create virtual environment
 python -m venv .venv
